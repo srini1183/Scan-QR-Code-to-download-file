@@ -9,12 +9,12 @@ The qr_code_generator.py file gnerates the qr_code. By scanning the QR code, we 
       
       To start the server:
           node download.js
-          Don't forget to change the image path!!
+          Don't forget to change the file path!!
       
       To generate QR code:
           python qr_code_generator.py
           Don't forget to the change the url!!
-      
+          
       To download the file:
          Scan the QR code
        
