@@ -1,6 +1,6 @@
 # Scan-QR-Code-to-download-file
 
-The qr_code_generator.py file gnerates the qr_code. By scanning the QR code can download any file.
+The qr_code_generator.py file gnerates the qr_code. By scanning the QR code, we can download any file.
 
 # How to run?
       
